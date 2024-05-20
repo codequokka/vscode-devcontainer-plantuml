@@ -1,0 +1,4 @@
+@startuml sample
+alice -> Bob: Hello, John!
+alice <-- Bob: Hello, World!
+@enduml

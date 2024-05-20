@@ -1,0 +1,13 @@
+{
+    "name": "dev container",
+    "dockerComposeFile": "docker-compose.yaml",
+    "service": "plantuml-server",
+    "workspaceFolder": "/workspace/",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "jebbs.plantuml"
+            ]
+        }
+    }
+}
